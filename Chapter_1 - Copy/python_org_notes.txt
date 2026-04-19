@@ -1,0 +1,11 @@
+Things I found interesting on python.org:
+
+- Documentation section → helps learn Python step by step
+- Downloads → install latest Python version
+- Community → forums and help from other developers
+- Packages (PyPI) → thousands of libraries like Django, Flask
+
+Topics I want to learn:
+- Web development (Django)
+- Game development
+- Automation scripts
